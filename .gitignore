@@ -1,0 +1,16 @@
+# Ambientes e caches
+.venv/
+__pycache__/
+*.txt
+
+# Pastas locais de dados e documentação
+dados/raw/
+docs/
+provas/
+
+# Arquivos específicos ignorados
+dados/processed/01_atletas_corrida_correto.csv
+dados/processed/02_fonte_dados_5km_enxuta.csv
+Documentacao_Tecnica_Completa_5KM.docx
+relatorio_executivo_5km.docx
+relatorio_executivo_5km-v2.docx
